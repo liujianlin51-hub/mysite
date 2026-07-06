@@ -13,7 +13,7 @@ export default function Home() {
         </div>
         <h1 style={{ fontSize: 32, fontWeight: 700, margin: '0 0 8px' }}>刘建林</h1>
         <p style={{ color: '#94a3b8', fontSize: 16, margin: 0 }}>
-          AI Agent 开发者 · 吉林建筑科技学院 · 人工智能
+          AI Agent 开发者 · 天津
         </p>
       </div>
 
@@ -40,7 +40,7 @@ export default function Home() {
       </Section>
 
       <footer style={{ textAlign: 'center', color: '#475569', marginTop: 60, fontSize: 13 }}>
-        Built with Next.js · Deployed on Vercel
+        Built with Next.js · Deployed on Vercel · 刚刚更新！
       </footer>
     </main>
   )
